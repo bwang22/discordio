@@ -1,5 +1,5 @@
 {
-  "name": "bwang22-discord.io",
+  "name": "discord.io-gateway6",
   "version": "2.5.3",
   "description": "JavaScript interface for Discord.",
   "main": "./lib/index.js",
