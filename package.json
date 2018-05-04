@@ -1,5 +1,5 @@
 {
-  "name": "discord.io",
+  "name": "bwang22-discord.io",
   "version": "2.5.3",
   "description": "JavaScript interface for Discord.",
   "main": "./lib/index.js",
